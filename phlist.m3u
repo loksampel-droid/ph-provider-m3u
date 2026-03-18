@@ -1288,8 +1288,37 @@ http://supersonictv.live:8080/611366/682256/22124
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9.png",National Geographic Wild
 http://supersonictv.live:8080/611366/682256/22125
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9.png",MUSIC QUEST
-http://trilo.tv:80/live/Eden1/123456789/368083.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55122e37d92b6b4ab03c427cd4f471b9:0c2d5950edcafe9a2ea09098a155bdda
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1s8PPYX/Pɪᴄsᴀʀᴛ-25-03-12-01-12-00-203.png" group-title="DISH", MULTIPREMIER
+https://dish.akamaized.net/Content/...1aa-3af4-bca0-f021-f48180f1974a)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74c3f74f661721c738278bb130e5ec6a:e68744b0a606e3b5966af41ef18a0cb6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzZ6NR9q/Pɪᴄsᴀʀᴛ-25-06-27-10-00-32-151.png" group-title="DISH", CLARO CINEMA
+https://dish.akamaized.net/Content/DASH/Live/channel(clarocinemahd)/variant.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=077105b9c52693e7c1df39521ab65803:7189d75c1469f0bd11efa54d58d3499b
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxCFJSQF/1746720937914.png" group-title="DISH", MULTICINEMA
+https://dish.akamaized.net/Content/...4bb-a84c-6924-9782-a5647d2146a0)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbac4c7d3d0f47a319e638e65c985997:de8dd6acc1d3cdb1994720ee41f43417
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwvfRXTP/Pɪᴄsᴀʀᴛ-25-05-08-13-02-39-680.png" group-title="DISH", CINEMA
+https://dish.akamaized.net/Content/DASH/Live/channel(aztecacinemahd)/variant.mpd
+
+#EXTINF:-1 tvg-id="DHE.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHELA.png?raw=true" group-title="DISH", DHE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=103cc11d061c3bb8aff8dbafbfc5a5a1:e42eb93eb51e8ea78828ccfbb31f4d60
+https://dish.akamaized.net/Content/DASH/Live/channel(dnehd)/variant.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e28ec76b3e800ded41db58719ad8b8f4:4e40f2c54234fc211f471ed049b22649
+#EXTINF:-1 tvg-id="514#Cinelatino" tvg-logo="https://i.postimg.cc/L43KdVPp/Pɪᴄsᴀʀᴛ-24-11-16-10-55-27-749.png" group-title="DISH", CINE LATINO
+https://dish.akamaized.net/Content/...d49-0e51-9219-ced1-8624e83e6bf3)/manifest.mpd
+
+
 
 **********FM Radio**********
 
